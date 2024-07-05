@@ -32,7 +32,7 @@ export const logo = <img src={`${LOGO_URL}`} alt="Logo" className="h-[75px] roun
 export const APP_NAME = 'My School Life Pretending To be a Worthless Person';
 export const NavbarName = "MSLPTBAWP";
 
-export const APP_DESCRIPTION = `Read ${MANGA_NAME} manga online at ${DOMAIN}. The story follows a protagonist who chooses a peculiar path: pretending to be worthless. There could be several reasons behind this facade. Perhaps the protagonist possesses hidden abilities they want to conceal.`;
+export const APP_DESCRIPTION = `Read ${MANGA_NAME} manhwa or manga all chapters online. The story follows a protagonist who chooses a peculiar path: pretending to be worthless. There could be several reasons behind this facade. Perhaps the protagonist possesses hidden abilities they want to conceal.`;
 
 export const DISQUS_SHORTNAME = "my-cms-7";
 
